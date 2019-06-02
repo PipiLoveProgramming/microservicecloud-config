@@ -17,5 +17,3 @@ spring:
     profiles: test
     application: 
         name: microservicecloud-config-pp-test
-        
-# 注意：使用UTF-8的格式保存
